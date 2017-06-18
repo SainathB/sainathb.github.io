@@ -1,0 +1,36 @@
+
+body {
+	font-family: 'verdana';
+	background-color: #fcf8e3;
+}
+
+.name {
+	color: white;
+	background-color: #559a9c;
+}
+
+.mynav {
+	background-color: #ffabab;	
+}
+
+.mainnav {
+	display: -webkit-flex; /* Safari 6.1+ */
+    display: -ms-flex; /* IE 10 */ 
+    display: flex;
+    height: 10px;
+}
+
+.navitem {
+	-webkit-flex: 1; /* Safari 6.1+ */
+    -ms-flex: 1; /* IE 10 */ 
+    flex: 1;
+}
+
+.sectionheader {
+	color: #559a9c;
+}
+
+.welcome {
+	/*height: 300px;
+	background-color: black;*/
+}
